@@ -20,11 +20,6 @@ path = 'contracts/product-journey.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.product-journey_]
-path = 'contracts/product-journey_.clar'
-clarity_version = 2
-epoch = 2.5
-
 [contracts.quality-assurance]
 path = 'contracts/quality-assurance.clar'
 clarity_version = 2
